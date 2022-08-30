@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/MenuBatton.qml","qml/pages/margaritaPage.qml","qml/controls/PlayBatton.qml","main.qml","qml/main.qml","qml/pages/memoriesPage.qml","qml/controls/CloseBatton.qml","qml/pages/genaPage.qml","qml/pages/photoPage.qml","qml/pages/heroesPage.qml","qml/pages/lidaPage.qml","qml/pages/filmsPage.qml","main.py","qml/modules/VideoPlayer.qml","qml/controls/MenuBattonStart.qml","qml/modules/AudioPlayer.qml","qml/pages/menuPage.qml","qml/pages/musicPage.qml"]
+}
